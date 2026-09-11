@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "潮汐监狱 - 主要补给点",
+        "desc": "示例补给点：医疗箱、弹药。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.397389,39.908860]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "航天基地 - 出口",
+        "desc": "示例：任务出口/撤离点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.410000,39.915000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴克什 - 隐藏箱",
+        "desc": "示例隐藏补给/掉落点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.390000,39.900000]
+      }
+    }
+  ]
+}
